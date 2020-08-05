@@ -57,7 +57,7 @@ I also used their picto.
 Once you executed the command you will be able to launch the main.js test from cypress. It will perform a full navigation of the app, and will try to push invalid data as well.
 
 ### How to test unit
-Once you executed the command a report will be displayed. I just added tests to see if some functions are working correctly. It leaks of coverage.
+Once you executed the command a report will be displayed. I just added tests to see if some functions are working correctly. It lacks of coverage.
 
 ## Improvement
 - Add more unit tests
